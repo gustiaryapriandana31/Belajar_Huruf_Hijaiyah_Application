@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginStart="10dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="5dp"
+    card_view:cardCornerRadius="5dp">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/img_huruf_hijaiyah"
+            android:layout_width="73dp"
+            android:layout_height="73dp"
+            android:src="@drawable/alif"
+            app:civ_border_color="#AAA123"
+            app:civ_border_width="1dp"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/tv_nama_huruf"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
+            android:layout_toEndOf="@+id/img_huruf_hijaiyah"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/yellow"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/img_huruf_hijaiyah"
+            card_view:layout_constraintTop_toTopOf="@id/img_huruf_hijaiyah"
+            tools:text="Huruf Hijaiyah" />
+
+        <TextView
+            android:id="@+id/tv_desk_huruf"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:ellipsize="end"
+            android:maxLines="3"
+            card_view:layout_constraintBottom_toBottomOf="@id/img_huruf_hijaiyah"
+            card_view:layout_constraintEnd_toEndOf="@id/tv_nama_huruf"
+            card_view:layout_constraintStart_toStartOf="@id/tv_nama_huruf"
+            card_view:layout_constraintTop_toBottomOf="@id/tv_nama_huruf"
+            card_view:layout_constraintVertical_bias="0.0"
+            tools:text="Deskripsi" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

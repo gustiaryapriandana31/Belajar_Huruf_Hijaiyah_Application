@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Belajar Huruf Hijaiyah</string>
+    <string name="huruf_hijaiyah">Huruf-Huruf Hijaiyah</string>
+    <string name="deskripsi">Deskripsi</string>
+
+    <string-array name="nama_huruf">
+        <item>Alif</item>
+        <item>Ba\'</item>
+        <item>Ta\'</item>
+        <item>Tsa\'</item>
+        <item>Jim</item>
+        <item>Ha\'</item>
+        <item>Kho\'</item>
+        <item>Dal</item>
+        <item>Dzal</item>
+        <item>Ra\'</item>
+        <item>Zai</item>
+        <item>Sin</item>
+        <item>Syin</item>
+        <item>Shod</item>
+        <item>Dhod</item>
+        <item>Tho</item>
+        <item>Zho</item>
+        <item>Ain</item>
+        <item>Ghain</item>
+        <item>Fa</item>
+        <item>Qaf</item>
+        <item>Kaf</item>
+        <item>Lam</item>
+        <item>Mim</item>
+        <item>Nun</item>
+        <item>Wau</item>
+        <item>Haa</item>
+        <item>Lam Alif</item>
+        <item>Ya\'</item>
+    </string-array>
+
+    <string-array name="posisi_huruf">
+        <item>Ke-1</item>
+        <item>Ke-2</item>
+        <item>Ke-3</item>
+        <item>Ke-4</item>
+        <item>Ke-5</item>
+        <item>Ke-6</item>
+        <item>Ke-7</item>
+        <item>Ke-8</item>
+        <item>Ke-9</item>
+        <item>Ke-10</item>
+        <item>Ke-11</item>
+        <item>Ke-12</item>
+        <item>Ke-13</item>
+        <item>Ke-14</item>
+        <item>Ke-15</item>
+        <item>Ke-16</item>
+        <item>Ke-17</item>
+        <item>Ke-18</item>
+        <item>Ke-19</item>
+        <item>Ke-20</item>
+        <item>Ke-21</item>
+        <item>Ke-22</item>
+        <item>Ke-23</item>
+        <item>Ke-24</item>
+        <item>Ke-25</item>
+        <item>Ke-26</item>
+        <item>Ke-27</item>
+        <item>Ke-28</item>
+        <item>Ke-29</item>
+    </string-array>
+
+    <string-array name="bentuk_huruf">
+        <item>Tegak lurus seperti angka 1</item>
+        <item>Melengkung ke atas dan memiliki 1 titik di bawah</item>
+        <item>Melengkung ke atas dan memiliki 2 titik di atas</item>
+        <item>Melengkung ke atas dan memiliki 3 titik di atas</item>
+        <item>Melengkung ke kiri dan memiliki 1 titik di dalam</item>
+        <item>Melengkung ke kiri dan tidak memiliki titik</item>
+        <item>Melengkung ke kiri dan memiliki titik 1 di atas</item>
+        <item>Seperti kurung Siku yang tumpul di kanan, tidak memiliki titik</item>
+        <item>Seperti kurung Siku yang tumpul di kanan, memiliki 1 titik di atas</item>
+        <item>Setengah melengkung dari kanan atas ke kiri bawah</item>
+        <item>Setengah melengkung dari kanan atas ke kiri bawah dengan 1 titik di atas</item>
+        <item>Memiliki 2 gelombang kecil lalu diakhiri 1 lengkungan besar di kiri</item>
+        <item>Memiliki 2 gelombang kecil lalu diakhiri 1 lengkungan besar di kiri dan memiliki 3 titik di atas</item>
+        <item>Memiliki bentuk oval kecil lalu diakhiri dengan lengkungan besar di kiri</item>
+        <item>Memiliki bentuk oval kecil lalu diakhiri dengan lengkungan besar di kiri dan memiliki 1 titik di atas</item>
+        <item>Memiliki tangkai yang tegak lalu ada oval seperti huruf shod di kanan</item>
+        <item>Memiliki tangkai yang tegak lalu ada oval seperti huruf shod di kanan dan memiliki 1 titik di atas</item>
+        <item>Seperti huruf E yang terbalik menghadap kanan</item>
+        <item>Seperti huruf E yang terbalik menghadap kanan dan memiliki 1 titik di atas</item>
+        <item>Memiliki kepala kecil lalu melengkung ke arah kiri atas dengan 1 titik di atas</item>
+        <item>Memiliki kepala kecil lalu melengkung ke arah kiri atas dengan 2 titik di atas</item>
+        <item>Seperti huruf J tetapi tidak melengkung di ujungnya, dan memiliki tanda seperti huruf s kecil di dalamnya</item>
+        <item>Seperti huruf J tetapi tidak memiliki titik di atasnya</item>
+        <item>Memiliki kepala yang kecil lalu ada garis menjulur ke bawah seperti kakinya</item>
+        <item>Melengkung ke atas dan memiliki 1 titik di atas, bisa dibilang kebalikan dari huruf Ba</item>
+        <item>Seperti huruf Fa sebelumnya, tetapi lengkungan akhirnya lebih ke bawah</item>
+        <item>Memiliki bentuk seperti ada simpul di dalamnya</item>
+        <item>Memiliki bentuk gabungan dari huruf Alif dan huruf Lam, yang bersatu seperti dipilin</item>
+        <item>Melengkung ke atas, tetapi memiliki variasi belokan di pangkalnya, lalu memiliki 2 titik di bawah</item>
+    </string-array>
+
+    <string-array name="deskripsi_huruf">
+        <item>
+            Memiliki makna Ismullah(nama Allah), tiada Tuhan selain Dia. Dia Yang Maha Hidup dan Maha Kuasa.\n\nSifat alif adalah jahr, rakhawah, isitifal, infitah, ishmat dan khafa’.\n\nHuruf Hijaiyah yang ke 1 dalam pengurutan huruf abjad Arab. Makhroj huruf Alif terletak pada bagian pangkal tenggorokan dan berdampingan dengan huruf Ha simpul.\n\nAdapun cara pengucapannya jelas dan harus terbuka mulut untuk merasakan bahwa huruf alif keluar dari pangkal tenggorokan.
+        </item>
+        <item>
+            Memiliki makna Al-Baqi\'(Maha Kekal), tidak akan musnah seperti makhluk.\n\nSifat ba’ adalah jahr, syiddah, istifal, infitah, idzlaq dan qalqalah.\n\nHuruf Hijaiyah yang ke 2 dalam pengurutan huruf abjad Arab. Makhroj huruf Ba terletak pada bagian di antara dua bibir(bibir atas dan bibir bawah). Makhrajnya mirip dengan huruf Mim.\n\nAdapun cara pengucapannya seperti huruf B, dimana bibir membungkam tetapi tidak terlalu kuat menekannya.
+        </item>
+        <item>
+            Memiliki makna At-Tawwab(Maha Penerima Taubat) dari hamba-hamba-Nya.\n\nSifat ta’ adalah hams, syiddah, istifal, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 3 dalam pengurutan huruf abjad Arab. Makhroj huruf Ta terletak pada bagian ujung lidah bersama pangkal-pangkal gigi-gigi seri.\n\nAdapun cara pengucapannya seperti huruf T, dan tidak boleh disertai dengan keluarnya nafas.
+        </item>
+        <item>
+            Memiliki makna Ats-Tsabit(Yang Menetapkan) keimanan hamba-hamba-Nya.\n\nSifat tsa’ adalah hams, rakhawah, istifal, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 4 dalam pengurutan huruf abjad Arab. Makhroj huruf Tsa terletak pada bagian gusi atau ujung lidah dengan ujung dua gigi seri bagian atas.\n\nAdapun cara pengucapannya dengan mengeluarkan ujung lidah sedikit sehingga terdengar samar-samar dan untuk membedakan bunyinya dari huruf sa yang jelas.
+        </item>
+        <item>
+            Memiliki makna Jalla Tsanauhu(Yang Maha Tinggi Pujian-Nya), kesucian-Nya, dan nama-nama-Nya yang tiada terbatas.\n\nSifat jim adalah jahr, syiddah, istifal, infitah, ishmat dan qalqalah.\n\nHuruf Hijaiyah yang ke 5 dalam pengurutan huruf abjad Arab. Makhroj huruf Jim terletak pada bagian tengah lidah dan bagian tengah langit-langit mulut paling atas.\n\nAdapun cara pengucapannya dengan menyebarkan suara angin yang kuat di belakang kedua gigi yang dirapatkan.
+        </item>
+        <item>
+            Memiliki makna Al-Haq, Al-Hayyu, wa Al-Halim(Yang Maha Benar, Maha Hidup, dan Maha Bijak).\n\nSifat ha’ adalah hams, rakhawah, istifal, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 6 dalam pengurutan huruf abjad Arab. Makhroj huruf Ha terletak pada bagian pertengahan tenggorokan atau katup pangkal tenggorokan.\n\nAdapun cara pengucapannya seperti huruf H (ha) biasa yang halus dan tipis. Makhrijul hurufnya berdampingan dengan huruf ain.
+        </item>
+        <item>
+            Memiliki makna Al-Khabir (Yang Maha Tahu) dan Maha Melihat. Sesungguhnya Allah Maha tahu apa yang kalian kerjakan.\n\nSifat kha’ adalah hams, rakhawah, isti’la, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 7 dalam pengurutan huruf abjad Arab. Makhroj huruf Kho terletak pada bagian ujung tenggorokan berdampingan dengan makhrijul huruf Ghain. Bisa dikatakan bahwa makhrajnya sama dengan huruf Ghain karena memiliki tempat keluar yang sama, sehingga terasa getarannya.\n\nAdapun cara pengucapannya jelas dan tebal dan menimbulkan sedikit getaran, tetapi tidak sampai terlalu kuat seperti mengumpulkan lendir di tenggorokan.
+        </item>
+        <item>
+            Memiliki makna Dayyanu yaumi al-din (Yang Maha Kuasa di Hari Pembalasan).\n\nSifat dal adalah jahr, syiddah, istifal, infitah, ishmat dan qalqalah.\n\nHuruf Hijaiyah yang ke 8 dalam pengurutan huruf abjad Arab. Makhroj huruf Dal terletak pada bagian ujung lidah bersama pangkal-pangkal gigi-gigi seri.\n\nAdapun cara pengucapannya seperti huruf D, dan tidak boleh disertai dengan keluarnya nafas.
+        </item>
+        <item>
+            Maknanya Dzu al-Jalal wa al-Ikram (Pemilik Keagungan dan Kemuliaan).\n\nSifat dzal adalah jahr, rakhawah, istifal, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 9 dalam pengurutan huruf abjad Arab. Makhroj huruf Dzal terletak pada bagian ujung lidah dengan ujung gigi seri bagian atas.\n\nAdapun cara pengucapannya dengan mengeluarkan ujung lidah sedikit sehingga terdengar samar-samar dan untuk membedakan bunyinya dari huruf za yang jelas.
+        </item>
+        <item>
+            Maknanya Al-Rauf (Maha Sayang).\n\nSifat ra’ adalah jahr, tawasuth, istifal, infitah, idzlaq, inhiraf dan takrir.\n\nHuruf Hijaiyah yang ke 10 dalam pengurutan huruf abjad Arab. Makhroj huruf Ro terletak pada bagian ujung lidah berikut dengan gigi seri yang sejajar, hampir mendekati makhraj Nun. Bisa dikatakan makhrajnya pada punggung lidah yang menyentuh langit-langit dengan posisi menekuk ke dalam, berkebalikan dengan tekukan lidah pada huruf Lam.\n\nAdapun cara pengucapannya seperti huruf R(ro), dimana jelas dan cukup tebal.
+        </item>
+        <item>
+            Maknanya Zainul Ma’budin (Kebanggaan Para Hamba).\n\nSifat zay adalah jahr, rakhawah, istifal, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 11 dalam pengurutan huruf abjad Arab. Makhroj huruf Zai terletak pada bagian ujung lidah bersama lapisan bagian dalam gigi-gigi seri bagian bawah.\n\nAdapun cara pengucapannya seperti huruf Z biasa, yaitu jelas dan bergetar tapi tetap tipis(za).
+        </item>
+        <item>
+            Maknanya Al-Sami al-Bashir (Maha Mendengar dan Maha Melihat).\n\nSifat sin adalah hams, rakhawah, istifal, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 12 dalam pengurutan huruf abjad Arab. Makhroj huruf Sin terletak pada bagian ujung lidah bersama lapisan bagian dalam gigi-gigi seri bagian bawah.\n\nAdapun cara pengucapannya seperti huruf S biasa, yaitu tipis(sa).
+        </item>
+        <item>
+            Maknanya Syakur (Maha Penerima ungkapan terima kasih dari hamba-hamba-Nya).\n\nSifat syin adalah hams, rakhawah, istifal, infitah, ishmat dan tafasyi.\n\nHuruf Hijaiyah yang ke 13 dalam pengurutan huruf abjad Arab. Makhroj huruf Syin terletak pada bagian tengah lidah dan bagian tengah langit-langit mulut paling atas.\n\nAdapun cara pengucapannya dengan menyebarkan suara angin yang kuat di belakang kedua gigi yang dirapatkan sama seperti huruf Jim.
+        </item>
+        <item>
+            Maknanya Al-Shadiq (Maha Jujur) dalam menepati janji. Sesungguhnya Allah tidak pernah sekalipun mengingkari janji-Nya.\n\nSifat shad adalah hams, rakhawah, isti’la, ithbaq dan ishmat.\n\nHuruf Hijaiyah yang ke 14 dalam pengurutan huruf abjad Arab. Makhroj huruf Shod terletak pada bagian ujung lidah bersama lapisan bagian dalam gigi-gigi seri bagian bawah.\n\nAdapun cara pengucapannya seperti huruf Sin, tetapi lebih tebal dan disertai dengan keluarnya nafas.
+        </item>
+        <item>
+            Maknanya Al-Dhar wa al-Nafi (Yang Menangkal Bahaya dan Mendatangkan Manfaat).\n\nSifat dhad adalah jahr, rakhawah, isti’la, ithbaq, ishmat dan istithalah.\n\nHuruf Hijaiyah yang ke 15 dalam pengurutan huruf abjad Arab. Makhroj huruf Dhod terletak pada bagian tepi lidah samping gigi geraham kanan atau kiri. Bisa juga dibilang tepi dan ujung lidah disentuhkan ke gigi geraham.\n\nAdapun cara pengucapannya seperti huruf Da, tetapi lebih kuat dan tebal serta disertai dengan keluarnya nafas.
+        </item>
+        <item>
+            Maknanya Al Thahir wal al-Muthahir (Yang Mahasuci dan Menyucikan).\n\nSifat tha; adalah jahr, syiddah, isti’la, ithbaq, ishmat dan qalqalah.\n\nHuruf Hijaiyah yang ke 16 dalam pengurutan huruf abjad Arab. Makhroj huruf Tho terletak pada bagian ujung lidah dan pangkal-pangkal gigi-gigi seri.\n\nAdapun cara pengucapannya seperti huruf Ta namun lebih kuat dan saat mengucapkannya tidak boleh disertai nafas.
+        </item>
+        <item>
+            Maknanya Zhahir (Yang Tampak dan Menampakkan Kebesaran-Nya).\n\nSifat zha’ adalah jahr, rakhawah, isti’la, ithbaq dan ishmat.\n\nHuruf Hijaiyah yang ke 17 dalam pengurutan huruf abjad Arab. Makhroj huruf Zho terletak pada bagian ujung lidah bersama pangkal gigi seri.\n\nAdapun cara pengucapannya lebih kuat dan tidak boleh dengan nafas saat mengucapkannya.
+        </item>
+        <item>
+            Maknanya Al-‘Alim (Yang Maha Mengetahui) atas segala sesuatu.\n\nSifat ‘ain adalah jahr, tawasuth, istifal, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 18 dalam pengurutan huruf abjad Arab. Makhroj huruf Ain terletak pada bagian tengah tenggorokan atau katup pangkal tenggorokan.\n\nAdapun cara pengucapannya seperti huruf A, tetapi dengan tekanan (\'a), biasanya disimbolkan dengan tanda petik satu di atas.
+        </item>
+        <item>
+            Maknanya Ghiyats al-Mustaghitsin (Penolong bagi yang memohon pertolongan) dan Pemberi Perlindungan.\n\nSifat ghain adalah jahr, rakhawah, isti’la, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 19 dalam pengurutan huruf abjad Arab. Makhroj huruf Ghain terletak pada pangkal lidah dan langit-langit mulut yang berdaging, tepatnya di bagian ujung tenggorokan sehingga seperti terasa getaran pada tenggorokan. Huruf Ghain ini merupakan huruf Halqiyah yang artinya tenggorokan.\n\nAdapun cara pengucapannya seperti huruf G, namun lebih rendah dalam melafalkannya.
+        </item>
+        <item>
+            Maknanya Yang Menumbuhkan biji-bijian dan tumbuhan.\n\nSifat fa’ adalah hams, syiidah, istifal, infitah dan idzlaq.\n\nHuruf Hijaiyah yang ke 20 dalam pengurutan huruf abjad Arab. Makhroj huruf Fa terletak pada bagian dalam bibir bawah bersama ujung gigi seri bagian atas.\n\nAdapun cara pengucapannya seperti huruf F (fa) dengan suara nafas ketika mengeluarkannya.
+        </item>
+        <item>
+            Maknanya Yang Maha Kuasa atas makhluk-Nya.\n\nSifat qaf adalah jahr, syiddah, isti’la, infitah, ishmat dan qalqalah.\n\nHuruf Hijaiyah yang ke 21 dalam pengurutan huruf abjad Arab. Makhroj huruf Qaf terletak pada bagian lidah paling dalam dan langit-langit mulut yang berdaging.\n\nAdapun cara pengucapannya seperti huruf Q (Qa) dan tidak boleh mengeluarkan nafas saat melafalkannya.
+        </item>
+        <item>
+            Maknanya Al-Kafi (Yang Memberikan Kecukupan) bagi semua makhluk, tiada yang serupa dan sebanding dengan-Nya.\n\nSifat kaf adalah hams, syiddah, istifal, infitah dan ishmat.\n\nHuruf Hijaiyah yang ke 22 dalam pengurutan huruf abjad Arab. Makhroj huruf Kaf terletak pada bagian lidah paling dalam, langit-langit mulut yang berdaging dan bertulang.\n\nAdapun cara pengucapannya seperti huruf K (ka) dan disertai dengan keluarnya nafas.
+        </item>
+        <item>
+            Maknanya Lathif (Maha Lembut) terhadap hamba-hamba-Nya dengan kelembutan khusus dan tersembunyi.\n\nSifat lam adalah jahr, tawasuth, istifal, infitah, idzlaq dan inhiraf.\n\nHuruf Hijaiyah yang ke 23 dalam pengurutan huruf abjad Arab. Makhroj huruf Lam terletak pada dua tepi lidah paling luar hingga ujung lisan. Bisa dikatakan makhrajnya pada ujung lidah yang menyentuh langit-langit dengan posisi menekuk ke luar, berkebalikan dengan tekukan lidah pada huruf Ra.\n\nAdapun cara pengucapannya seperti huruf L (la), lidah tidak boleh keluar.
+        </item>
+        <item>
+            Maknanya Malik ad-dunya wal akhirah (Pemilik dunia dan akhirat).\n\nSifat mim adalah jahr, tawasuth, istifal, infitah, idzlaq dan ghunnah.\n\nHuruf Hijaiyah yang ke 24 dalam pengurutan huruf abjad Arab. Makhroj huruf Mim terletak pada merapatkan kedua bibir dengan menyertakan dengungan dari rongga hidung.\n\nAdapun cara pengucapannya seperti huruf M (ma) dengan bibir membungkam seperti huruf Ba.
+        </item>
+        <item>
+            Maknanya Nur (Cahaya) langit, cahaya bumi, dan cahaya hati orang-orang beriman.\n\nSifat nun adalah jahr, tawasuth, istifal, infitah, idzlaq dan ghunnah.\n\nHuruf Hijaiyah yang ke 25 dalam pengurutan huruf abjad Arab. Makhroj huruf Nun terletak dari ujung lidah dan gusi yang sejajar dengannya, dengan menyertakan dengung dari rongga hidung.\n\nAdapun cara pengucapannya seperti huruf N (na).
+        </item>
+        <item>
+            Maknanya Al-Wahid (Yang Maha Esa) dan tempat bergantung segala sesuatu.\n\nSifat wau adalah jahr, rakhawah, istifal, infitah, ishmat, lin dan khafa’.\n\nHuruf Hijaiyah yang ke 26 dalam pengurutan huruf abjad Arab. Makhroj huruf Wau terletak pada bagian di antara dua bibir(bibir atas dan bibir bawah).\n\nAdapun cara pengucapannya seperti huruf W, dimana bibir membuka dan boleh moncong untuk mendapat haq dan kesempurnaan huruf tersebut.
+        </item>
+        <item>
+            Maknanya Al-Hadi (Maha Pemberi Petunjuk) bagi makhluk-Nya. Dialah yang menciptakan segala sesuatu dan memberikan petunjuk.\n\nSifat ha’ adalah hams, rakhawah, istifal, infitah, ishmat dan khafa’.\n\nHuruf Hijaiyah yang ke 27 dalam pengurutan huruf abjad Arab. Makhroj huruf Haa terletak pada bagian pangkal tenggorokan dan berdampingan dengan huruf Alif / Hamzah.\n\nAdapun cara pengucapannya jelas dan harus terbuka mulut untuk merasakan bahwa huruf Haa keluar dari pangkal tenggorokan. Perlu diingat bahwa keluarnya huruf Haa yang terdengar besar ini bukan dari suara dada, melainkan pada makhrijul hruufnya yang berada di pangkal tenggorokan tersebut.
+        </item>
+        <item>
+            Lam tasydid dalam lafadz Allah untuk menekankan keesaan Allah, yang tiada sekutu bagi-Nya.\n\nSifat huruf lam alif ini sama seperti huruf la, yaitu adalah jahr, tawasuth, istifal, infitah, idzlaq dan inhiraf. Alasannya adalah meski huruf ini terdiri dari huruf Alif dan Lam, tetapi pada saat membacanya tetap dibaca La.\n\nHuruf Hijaiyah yang ke 28 dalam pengurutan huruf abjad Arab. Makhroj huruf Lam Alif ini terletak pada dua tepi lidah paling luar hingga ujung lisan. Bisa dikatakan makhrajnya pada ujung lidah yang menyentuh langit-langit dengan posisi menekuk ke luar, berkebalikan dengan tekukan lidah pada huruf Ra.\n\nAdapun cara pengucapannya seperti huruf L (la) seperti sebelumnya, lidah tidak boleh keluar.
+        </item>
+        <item>
+            Yadullah basithun lil khalqi (Tangan/kekuasaan Allah terbuka bagi makhluk). Kekuasaan dan kekuatan-Nya meliputi semua tempat dan semua keberadaan.\n\nSifat ya’ adalah jahr, rakhawah, istifal, infitah, ishmat dan lin dan khafa’.\n\nHuruf Hijaiyah yang ke 29 dalam pengurutan huruf abjad Arab. Makhroj huruf Ya terletak pada bagian tengah lidah dan bagian tengah langit-langit mulut paling atas.\n\nAdapun cara pengucapannya seperti huruf Y (ya), dimana secara makhrojnya dengan menyebarkan suara angin yang kuat di belakang kedua gigi yang dirapatkan sama seperti huruf Jim dan Sya sebelumnya.
+        </item>
+    </string-array>
+
+    <integer-array name="gambar_huruf">
+        <item>@drawable/alif</item>
+        <item>@drawable/ba</item>
+        <item>@drawable/ta</item>
+        <item>@drawable/tsa</item>
+        <item>@drawable/jim</item>
+        <item>@drawable/ha</item>
+        <item>@drawable/kho</item>
+        <item>@drawable/dal</item>
+        <item>@drawable/dzal</item>
+        <item>@drawable/ra</item>
+        <item>@drawable/zai</item>
+        <item>@drawable/sin</item>
+        <item>@drawable/syin</item>
+        <item>@drawable/shod</item>
+        <item>@drawable/dhod</item>
+        <item>@drawable/tho</item>
+        <item>@drawable/zho</item>
+        <item>@drawable/ain</item>
+        <item>@drawable/ghain</item>
+        <item>@drawable/fa</item>
+        <item>@drawable/qof</item>
+        <item>@drawable/kaf</item>
+        <item>@drawable/lam</item>
+        <item>@drawable/mim</item>
+        <item>@drawable/nun</item>
+        <item>@drawable/wau</item>
+        <item>@drawable/haa</item>
+        <item>@drawable/lamalif</item>
+        <item>@drawable/ya</item>
+    </integer-array>
+</resources>

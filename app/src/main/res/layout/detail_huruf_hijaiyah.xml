@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <ImageView
+            android:id="@+id/iv_gambar_huruf"
+            android:layout_width="180dp"
+            android:layout_height="310dp"
+            android:layout_marginEnd="106dp"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/dhod"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/tv_judul_nama_huruf"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
+            android:textSize="25sp"
+            android:textColor="@color/yellow"
+            android:textStyle="bold"
+            card_view:layout_constraintBottom_toTopOf="@+id/tv_detail_nama_huruf"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/iv_gambar_huruf"
+            card_view:layout_constraintTop_toTopOf="@id/iv_gambar_huruf"
+            android:text="Nama Huruf" />
+
+        <TextView
+            android:id="@+id/tv_detail_nama_huruf"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="12dp"
+            android:layout_toEndOf="@+id/iv_gambar_huruf"
+            android:textSize="22sp"
+            android:fontFamily="sans-serif-condensed-light"
+            android:textColor="@color/red"
+            android:textStyle="bold"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/iv_gambar_huruf"
+            card_view:layout_constraintTop_toTopOf="@id/iv_gambar_huruf"
+            tools:text="Huruf Hijaiyah" />
+
+        <TextView
+            android:id="@+id/tv_judul_posisi_huruf"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="180dp"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
+            android:textSize="25sp"
+            android:textColor="@color/yellow"
+            android:textStyle="bold"
+            card_view:layout_constraintBottom_toTopOf="@+id/tv_detail_nama_huruf"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/iv_gambar_huruf"
+            card_view:layout_constraintTop_toTopOf="@id/iv_gambar_huruf"
+            android:text="Posisi Huruf" />
+
+        <TextView
+            android:id="@+id/tv_detail_posisi_huruf"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginEnd="12dp"
+            android:layout_toEndOf="@+id/iv_gambar_huruf"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif-condensed-light"
+            android:textColor="@color/red"
+            android:textStyle="bold"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/iv_gambar_huruf"
+            card_view:layout_constraintTop_toTopOf="@id/iv_gambar_huruf"
+            tools:text="Ke-1" />
+
+        <TextView
+            android:id="@+id/tv_judul_bentuk_huruf"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="360dp"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
+            android:textSize="25sp"
+            android:textColor="@color/yellow"
+            android:textStyle="bold"
+            card_view:layout_constraintBottom_toTopOf="@+id/tv_detail_nama_huruf"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/iv_gambar_huruf"
+            card_view:layout_constraintTop_toTopOf="@id/iv_gambar_huruf"
+            android:text="Bentuk Huruf" />
+
+        <TextView
+            android:id="@+id/tv_detail_bentuk_huruf"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="220dp"
+            android:layout_marginEnd="12dp"
+            android:layout_toEndOf="@+id/iv_gambar_huruf"
+            android:textSize="15sp"
+            android:fontFamily="sans-serif-condensed-light"
+            android:lineSpacingMultiplier="1.1"
+            android:textColor="@color/red"
+            android:textStyle="bold"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/iv_gambar_huruf"
+            card_view:layout_constraintTop_toTopOf="@id/iv_gambar_huruf"
+            tools:text="Seperti huruf J tetapi tidak melengkung di ujungnya, dan memiliki tanda seperti huruf s kecil di dalamnya" />
+
+        <TextView
+            android:id="@+id/judul_desk_huruf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="260dp"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/yellow"
+            card_view:layout_constraintBottom_toBottomOf="@id/iv_gambar_huruf"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintHorizontal_bias="1.0"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toBottomOf="@id/tv_detail_nama_huruf"
+            card_view:layout_constraintVertical_bias="0.0"
+            android:text="Deskripsi dan Penjelasan Huruf" />
+
+        <TextView
+            android:id="@+id/tv_detail_desk_huruf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="300dp"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:lineSpacingMultiplier="1.2"
+            card_view:layout_constraintBottom_toBottomOf="@id/iv_gambar_huruf"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintHorizontal_bias="1.0"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toBottomOf="@id/tv_detail_nama_huruf"
+            card_view:layout_constraintVertical_bias="0.0"
+            tools:text="Lam tasydid dalam lafadz Allah untuk menekankan keesaan Allah, yang tiada sekutu bagi-Nya.\n\nSifat huruf lam alif ini sama seperti huruf la, yaitu adalah jahr, tawasuth, istifal, infitah, idzlaq dan inhiraf. Alasannya adalah meski huruf ini terdiri dari huruf Alif dan Lam, tetapi pada saat membacanya tetap dibaca La.\n\nHuruf Hijaiyah yang ke 28 dalam pengurutan huruf abjad Arab. Makhroj huruf Lam Alif ini terletak pada dua tepi lidah paling luar hingga ujung lisan. Bisa dikatakan makhrajnya pada ujung lidah yang menyentuh langit-langit dengan posisi menekuk ke luar, berkebalikan dengan tekukan lidah pada huruf Ra.\n\nAdapun cara pengucapannya seperti huruf L (la) seperti sebelumnya, lidah tidak boleh keluar." />
+
+        <TextView
+            android:id="@+id/judul_makhraj_huruf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="380dp"
+            android:lineSpacingMultiplier="1.2"
+            android:text="Untuk lebih jelasnya, perhatikan skema Makhrijul Huruf di bawah ini"
+            android:textColor="@color/yellow"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            card_view:layout_constraintBottom_toBottomOf="@id/tv_detail_desk_huruf"
+            card_view:layout_constraintEnd_toEndOf="@id/tv_detail_desk_huruf"
+            card_view:layout_constraintHorizontal_bias="0.0"
+            card_view:layout_constraintStart_toStartOf="@id/tv_detail_desk_huruf"
+            card_view:layout_constraintTop_toTopOf="@id/tv_detail_desk_huruf"
+            card_view:layout_constraintVertical_bias="0.0" />
+
+        <ImageView
+            android:id="@+id/iv_gambar_makhraj_huruf"
+            android:layout_width="match_parent"
+            android:layout_height="310dp"
+            android:layout_marginTop="15dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/makhraj_huruf"
+            card_view:layout_constraintBottom_toBottomOf="@id/iv_gambar_huruf"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintHorizontal_bias="0.517"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toBottomOf="@id/judul_makhraj_huruf"
+            card_view:layout_constraintVertical_bias="0.0" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
